@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -108,7 +108,91 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: shoot without FX_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 78
+        width: 32
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5553824, y: 0.5}
+      border: {x: 0, y: 0, z: 2, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec448bbf4e557c44cbd178a676c6060d
+      internalID: 2045286585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shoot without FX_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 52
+        width: 37
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5553824, y: 0.58}
+      border: {x: 7, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9107ea6cb3ce3d544a67c780f2258e02
+      internalID: -1202201227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shoot without FX_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 26
+        width: 39
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5553824, y: 0.5}
+      border: {x: 7, y: 0, z: 2, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a472169ac7852c4089999e48000ffee
+      internalID: -1923407334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shoot without FX_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 39
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5553824, y: 0.5}
+      border: {x: 7, y: 0, z: 2, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb747ac2dc6cffc4ba774971e6686362
+      internalID: 786799939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -119,7 +203,11 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      shoot without FX_0: 2045286585
+      shoot without FX_1: -1202201227
+      shoot without FX_2: -1923407334
+      shoot without FX_3: 786799939
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
